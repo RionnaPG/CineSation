@@ -1,0 +1,10 @@
+INSERT INTO customer(cIDNumber, Points) VALUES ("7904249056876",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("9207226859368",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("0302125349350",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("7403282489465",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("9401187111437",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("7308238745263",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("8512113816353",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("7805220317013",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("9302112915147",0);
+INSERT INTO customer(cIDNumber, Points) VALUES ("9604269604255",0);

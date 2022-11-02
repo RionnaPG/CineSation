@@ -1,0 +1,12 @@
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Combo Large Soda","1 x Large Soda + 1 x Large Popcorn",84.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Combo Large Slush","1 x Large Slushie + 1 x Large Popcorn",85.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Combo Medium Sode","1 x Regular Soda + 1 x Regular Popcorn",74.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Small Sode","Small Cola, Fanta, creme soda",28.50);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Regular Sode","Regular Cola, Fanta, creme soda",34.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Large Sode","Large Cola, Fanta, creme soda",39.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Small Slushie","cherry, strawberry, apple",30.0);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Regular Slushie","cherry, strawberry, apple",35.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Large Slushie","cherry, strawberry, apple",40.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Water","500ml bottle water",25.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Large Popcorn","Large Popcorn",45.00);
+INSERT INTO snack(SnackName, SnackDisc, SnackPrice) VALUES("Regular Popcorn","Regular Popcorn",40.00);

@@ -1,0 +1,10 @@
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("9501114087851",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("9106271353406",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("7607266512164",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("9808272602835",true);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("8305172965925",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("7406285538094",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("9712079575398",true);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("0102112040126",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("9906096377940",false);
+INSERT INTO employee(eIDNumber,IsManager) VALUES ("0208190354372",false);
